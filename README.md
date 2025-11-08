@@ -1,5 +1,5 @@
-# wpf-learning
-WPFの学習
+# PhotoView
 
-## ブランチ
-学習テーマごとにブランチを切り替えて運用
+画像を表示するだけのアプリ
+
+![Demo](./demo.gif)
